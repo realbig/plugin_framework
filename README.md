@@ -1,4 +1,4 @@
-# My Plugin [![Build Status](https://travis-ci.org/realbig/ci-sandbox.svg?branch=master)](https://travis-ci.org/realbig/ci-sandbox)
+# My Plugin [![Build Status](https://travis-ci.org/realbig/plugin_framework.svg?branch=master)](https://travis-ci.org/realbig/plugin_framework)
 
 ## INSTRUCTIONS
 
@@ -12,4 +12,6 @@ After cloning this repo, there's some refactoring to be done:
 
 It is then recommended to get the latest version of phpunit.phar to add to the repo for function reference.
 
-Then you need to configure your external libraries for WordPress and the WordPress WP_UnitTestCase;
+Then you need to configure your external libraries for WordPress and the WordPress WP_UnitTestCase.
+
+Also, edit the above Build Status stamp from `/realbig/plugin_framework` to wherever your repo is.
